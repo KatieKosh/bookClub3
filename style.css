@@ -1,0 +1,122 @@
+
+
+
+button {
+font-family: 'Tangerine', cursive;
+color: black;
+}
+
+
+container {
+padding: 0px;
+
+}
+
+
+
+header {
+  border-top: 10px solid #A39480;
+  font-family: 'Tangerine', cursive;
+
+  font-size: 20px;
+  padding-top: 0px;
+  position: relative;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-image:
+  url("/Users/kathrynkoshinski/ut-bootcamp/image/bookClub2/wood_1/wood_1_@2X.png");
+  color: white;
+  /*height: 100%;*/
+  margin-bottom: 40px;
+
+}
+
+.container {
+  font-size: 65px;
+  text-align: center;
+  color: white;
+font-family: 'Tangerine', cursive;
+border-bottom: 5px solid #A39480;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+
+.container2 {
+margin-top: 50px;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 100px;
+}
+
+.container3 {
+text-align: center;
+font-style: italic;
+font-size: 65px;
+color: white;
+font-family: 'Tangerine', cursive;
+}
+
+
+
+.container4{
+margin-top: 70px;
+margin-bottom: 150px;
+border-top: 5px solid #A39480;
+padding-top: 50px;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+#values {
+
+font-family: 'Tangerine', cursive;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom:  20px;
+  border-bottom: 1px solid white;
+  margin-left: 220px;
+  margin-right: 220px;
+
+
+}
+
+
+
+
+#quote {
+  color: black;
+  text-align: center;
+    font-family: 'Tangerine', cursive;
+  font-size: 30px;
+}
+
+#list {
+    font-size: 20px;
+  font-family: 'Sahitya', serif;
+    color: white;
+    list-style-type: none;
+    }
+
+
+form {
+border: 10px solid white;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 100px;
+margin-bottom: 400px;
+  }
+
+.form-group {
+  font-family: 'Tangerine', cursive;
+  font-size: 40px;
+  color:  white;
+
+}
