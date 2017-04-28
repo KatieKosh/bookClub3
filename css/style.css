@@ -30,7 +30,7 @@ html {
 
 body {
   background-image:
-  url("/Users/kathrynkoshinski/ut-bootcamp/bookClub3/image/wood_1/wood_1_@2X.png");
+  url("../image/wood_1/wood_1_@2X.png");
   color: white;
   /*height: 100%;*/
   margin-bottom: 40px;
